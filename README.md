@@ -7,11 +7,6 @@
 - Backup Otomatik Rol Silinçe Kendisi Olusturur Ve Otomatik Dağitir Kanal İzinlerini Ayarlar Ve Rol Kim Varsa Herkeşe Vermektedir
 - Chat Guard Küfür/Caps/Chat Limit/Etiket/ Gibi Daha Bir Çok Chate İlgili Korumalarımız Bulunmaktadır
 
-
-# Pusha Guard Bots Kurulum
-
-- Tokenlerı Girin Mongolarında Girdinizmi Guardlar Artık Hazırdır
-
 # Pusha Destek Bots
 
 - Destek Bots Olan Özelikler Yetkili Alim / Buttonlu Destek Ve Log Özeligi Bulunmaktadir
