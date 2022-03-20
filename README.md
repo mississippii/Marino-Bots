@@ -19,26 +19,12 @@
 
 - Welcome bots Hem Mongolu Hemde Komutludur Zaten Ekran Fotoraflarında Görürsünüz Komutlarda İstediginiz Gibi Ses Kayıdına Gecer
 
-# Pusha Main Bots
-
- Not: 5 tasarım yaptım random seçip veri kartı oluşturuyor...
-
-![image](https://user-images.githubusercontent.com/92666466/152353271-47cc6c6e-d838-478e-9c64-5d0584765351.png)
-
-- Testleri yapılmıştır. Hiçbir hatası bulunmamaktadır starlarınızı bekliyorum yeni github hesabım.
-- Sizlerle geliştirmiş olduğum botlardan biriyle tanıştırmak istiyorum.. 
-- Invite, Moderasyon, Butonlu Register /Oto Register, Stats, Buton sistemleri.
 
 # Yapmanız gereken adımlar
 
 Not: Aşağıdaki hata için veya welcome mesaj sorunu için .ytag ekle sil yapmanız gerekmektedir.
 
 ![image](https://user-images.githubusercontent.com/92666466/150496311-fa4725af-1d36-4004-b457-bcacfaee238b.png)
-
-Not: Aşağıdaki Gördünüz Yaş Ayaridir Eyerki 14 Yaş Altisa Kayit Edilmez 14 Ve Üştuse Kayit Eder Dilediginiz Gibide Ayarlaya Bilirsiniz
-
-![image](https://cdn.discordapp.com/attachments/932215403646681101/934076446790529065/unknown.png)
-
 
 Not: Aşağada Gördünüz Kod .e ve .k Kodudur Taglı Alim orda Gördiniz İki Rol İdsine Booster Ve Vip İdsi Girilcektir
 
