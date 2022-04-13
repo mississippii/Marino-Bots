@@ -1,4 +1,4 @@
-# 150 Star 50 Fork Paylasacam.
+# 50 Star 25 Fork Paylasacam.
 
 # Pusha Guard Bots
 
